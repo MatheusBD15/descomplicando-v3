@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Descomplicando-v3",
+  "description": "Descomplicando V3",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "devtools_page": "devtools.html",
+  "permissions": [
+  ]
+}
